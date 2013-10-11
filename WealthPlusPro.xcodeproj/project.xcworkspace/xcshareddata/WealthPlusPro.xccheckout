@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F2C9A671-3550-4CB3-A491-43746B439C89</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WealthPlusPro</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B671045B-6709-4860-87C3-E681FC878971</key>
+		<string>https://github.com/Evanwzy/WealthPlusPro.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WealthPlusPro.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B671045B-6709-4860-87C3-E681FC878971</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Evanwzy/WealthPlusPro.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B671045B-6709-4860-87C3-E681FC878971</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B671045B-6709-4860-87C3-E681FC878971</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WealthPlusPro</string>
+		</dict>
+	</array>
+</dict>
+</plist>
